@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Leandro Duarte",
+    "slug": "leandro-duarte",
+    "role": "Supervisor Comercial",
+    "foto_disponible": true
+  },
+  {
+    "name": "Brian Gryncwejg",
+    "slug": "brian-gryncwejg",
+    "role": "Asesor Comercial",
+    "foto_disponible": true
+  },
+  {
+    "name": "Lucas Iván Brito Tévez",
+    "slug": "lucas-ivan-brito-tevez",
+    "role": "Asesor Comercial",
+    "foto_disponible": false
+  },
+  {
+    "name": "Brisa María Cisneros",
+    "slug": "brisa-maria-cisneros",
+    "role": "Asesora Comercial",
+    "foto_disponible": true
+  },
+  {
+    "name": "Antonella Milagros Cisneros",
+    "slug": "antonella-milagros-cisneros",
+    "role": "Asesora Comercial",
+    "foto_disponible": true
+  },
+  {
+    "name": "Leandro Pardal Grasso",
+    "slug": "leandro-pardal-grasso",
+    "role": "Asesor Comercial",
+    "foto_disponible": false
+  },
+  {
+    "name": "Bárbara Noelia Tirado",
+    "slug": "barbara-noelia-tirado",
+    "role": "Asesora Comercial",
+    "foto_disponible": true
+  },
+  {
+    "name": "Lucas Perticarini",
+    "slug": "lucas-perticarini",
+    "role": "Asesor Comercial",
+    "foto_disponible": true
+  },
+  {
+    "name": "Fernando Tolaba",
+    "slug": "fernando-tolaba",
+    "role": "Asesor Comercial",
+    "foto_disponible": true
+  }
+]
